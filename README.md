@@ -75,8 +75,7 @@ export default {
 </script>
 ```
 
-![image](https://github.com/VICTORYGS/vue-efficient-scroll-list/blob/master/1.png?raw=true)
-![image](https://github.com/VICTORYGS/vue-efficient-scroll-list/blob/master/2.png?raw=true)
+![image](https://github.com/VICTORYGS/vue-efficient-scroll-list/blob/master/demo.png?raw=true)
 ## Contributions
 
 Welcome to improve this component with any issue, pull request or code review.
