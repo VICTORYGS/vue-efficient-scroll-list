@@ -14,8 +14,7 @@ npm install vue-efficient-scroll-list --save
               @pullAndRelease="updated"
               :list="msgList"
               noMoreMsgTip="no more data..."
-              pullDownTip="release to refresh..."
-              :singleCount="10">
+              pullDownTip="release to refresh...">
         <template v-slot="{list}">
           <div v-for="(v,i) in list" :key="i" class="msgItem">
             <img src="https://img.yzcdn.cn/vant/logo.png" width="100" height="100">
